@@ -19,6 +19,6 @@
 
 
 
-Starter files provided by Bernie Roehl of University of Waterloo:
+Starter files provided by Bernie Roehl of University of Waterloo
 
 
